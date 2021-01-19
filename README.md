@@ -76,7 +76,7 @@ with correct and proper tags. For html it will be ‘<html>’ and for
 php it starts as ‘<?php’ .
 In this way we can add new pages to a website.
 
---Add a new form field to ‘add
+- Add a new form field to ‘add
 product’ form
 
 To add a new form field in any form, in our case it is Add
@@ -106,7 +106,7 @@ input tag and give it a text validation using css so a user can type
 any text in the form field. In the css file we can use a method key
 to give the form a variable
 
---Add a new form field to ‘add
+- Add a new form field to ‘add
 review’ form
 
 Similar to the add products form we can add a form field to the
